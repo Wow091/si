@@ -1,0 +1,25 @@
+{
+    "name": "si",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "dghsnlkfsdg": "github:zeazulak/si#aa57a2307ad3682218ea21174c811d69629f9d1d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
